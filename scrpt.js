@@ -1,1 +1,2 @@
-my scrpt pages1
+my script page2
+my script ages1
